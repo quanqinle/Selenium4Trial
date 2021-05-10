@@ -1,3 +1,14 @@
+/*.iml
+/.idea
+/.externalToolBuilders
+/.vscode
+/.springBeans
+/target
+/bin
+/.settings/
+/logs
+/*.log
+
 # Compiled class file
 *.class
 
