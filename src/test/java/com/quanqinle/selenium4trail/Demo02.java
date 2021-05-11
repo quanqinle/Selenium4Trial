@@ -19,7 +19,7 @@ import java.nio.file.Paths;
  * @version 2021/5/11
  */
 public class Demo02 {
-    private static final Logger logger = LoggerFactory.getLogger(Demo01.class);
+    private static final Logger logger = LoggerFactory.getLogger(Demo02.class);
 
     @BeforeAll
     public static void setup() {
