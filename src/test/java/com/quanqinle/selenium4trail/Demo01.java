@@ -22,7 +22,7 @@ public class Demo01 {
     }
 
     @Test
-    public void testOpenNew() {
+    public void test_OpenNew() {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.amazon.com/");
 
